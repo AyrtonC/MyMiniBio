@@ -1,9 +1,8 @@
 Ayrton Cavalieri de Almeida
 
 Bacharelando em Ciência da Computação pela Universidade Federal Fluminense. 
+Criador do Simulador de Automatos Finitos não-determinísticos em Assembly MIPS32. (https://github.com/AyrtonC/finiteautomatamips)
 Co-criador do Br-Print, na seção do módulo KI (Kernel de Impressão).
-Criador do Simulador de Automatos Finitos não-determinísticos em Assembly MIPS32. 
-(https://github.com/AyrtonC/finiteautomatamips)
 Programador no projeto Habilis.
 Palestrou na Latinoware de 2015, no Flawh sobre o Br-Print.
 Palestrou na CPBR9 sobre o funcionamento do Módulo KI em Raspberry Pi.
